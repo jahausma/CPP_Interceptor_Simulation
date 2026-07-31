@@ -1,0 +1,8 @@
+Jacob Hausmann
+6/28/2026
+
+Notes on Different Integration Methods
+
+EULER:
+
+There are several types of Euler integration methods. 
